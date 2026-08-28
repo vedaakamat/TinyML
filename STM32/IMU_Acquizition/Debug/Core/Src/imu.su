@@ -1,0 +1,6 @@
+../Core/Src/imu.c:19:16:Platform_Write	40	static
+../Core/Src/imu.c:42:16:Platform_Read	40	static
+../Core/Src/imu.c:65:13:Platform_Delay	16	static
+../Core/Src/imu.c:74:9:IMU_Init	16	static
+../Core/Src/imu.c:115:9:IMU_Read_Accel	32	static
+../Core/Src/imu.c:137:9:IMU_Read_Gyro	32	static
