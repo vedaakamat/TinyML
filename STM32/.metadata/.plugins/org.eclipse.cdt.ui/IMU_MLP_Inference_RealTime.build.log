@@ -1,0 +1,10 @@
+10:22:51 **** Incremental Build of configuration Debug for project IMU_MLP_Inference_RealTime ****
+make -j12 all 
+arm-none-eabi-size  IMU_MLP_Inference_RealTime.elf 
+   text	   data	    bss	    dec	    hex	filename
+  61660	   2140	   5300	  69100	  10dec	IMU_MLP_Inference_RealTime.elf
+Finished building: default.size.stdout
+ 
+
+10:22:52 Build Finished. 0 errors, 0 warnings. (took 197ms)
+

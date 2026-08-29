@@ -1,0 +1,10 @@
+12:12:54 **** Incremental Build of configuration Debug for project Nano_Acquizition ****
+make -j12 all 
+arm-none-eabi-size  Nano_Acquizition.elf 
+   text	   data	    bss	    dec	    hex	filename
+ 173972	    488	  22232	 196692	  30054	Nano_Acquizition.elf
+Finished building: default.size.stdout
+ 
+
+12:12:55 Build Finished. 0 errors, 0 warnings. (took 193ms)
+
